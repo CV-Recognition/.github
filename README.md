@@ -22,8 +22,8 @@ This project showcases design and programming skills through the development of 
 
 | Repository | Description |
 |------------|-------------|
-| 🖼️ **[Frontend](https://github.com/CV-Recognition/frontend)** | User interface for the face recognition access system |
-| ⚙️ **[Backend](https://github.com/CV-Recognition/backend)** | API server, face recognition engine, and database integration |
+| 🖼️ **[Frontend](https://github.com/CV-Recognition/SOFRS-EA-Frontend)** | User interface for the face recognition access system |
+| ⚙️ **[Backend](https://github.com/CV-Recognition/SOFRS-EA-Backend)** | API server, face recognition engine, and database integration |
 
 ---
 
