@@ -43,6 +43,65 @@ There are currently 2 teams, Tree and Roots:
 - <img width="32" height="32" alt="Frontend" align=center src="https://github.com/user-attachments/assets/4763139c-d421-487f-a120-5184c4814cb9" /> - Handles the Frontend application 
 - <img width="32" height="32" alt="Backend" align=center src="https://github.com/user-attachments/assets/838e0e00-59cd-4834-b0ba-58763c3c098f" /> - Handles the Backend application
 
+## Team
+
+### Team Lead
+
+This person is responsible for ensuring that the project stays on track and that the team is meeting its deadlines.
+
+<div align=center>
+
+| Jay | <img src="images/Jay.png" width="100" height="100"> | [GitHub](https://github.com/jay-s-2004) |
+| --- | --------------------------------------------------- | --------------------------------------- |
+
+</div>
+
+### Backend Developer
+
+This team will work on the facial recognition, relying on the Frontend team to provide the required detection (via a screenshot).
+
+<div align=center>
+
+| Connor | <img src="images/Connor.png" width="100" height="100"> | [GitHub](https://github.com/connor-mcdonald-dev) |
+| ------ | ------------------------------------------------------ | ------------------------------------------------ |
+
+</div>
+
+### DevOps Engineer
+
+This person is responsible for the deployment and maintenance of the project.
+
+<div align=center>
+
+| Adem | <img src="images/Adem.png" width="100" height="100"> | [GitHub](https://github.com/jay-s-2004) |
+| ---- | ---------------------------------------------------- | --------------------------------------- |
+
+</div>
+
+### Data Scientist
+
+This person is responsible for the data collection and analysis of the project.
+
+<div align=center>
+
+| Javier | <img src="images/Jav.png" width="100" height="100"> | [GitHub](https://github.com/jay-s-2004) |
+| ------ | --------------------------------------------------- | --------------------------------------- |
+
+</div>
+
+### Frontend Developer
+
+This team will work on the facial tracking, ensuring that the camera detects the users face (based on boundary box requirements) and returns back the correct schema.
+
+<div align=center>
+
+| Jay | <img src="images/Jay.png" width="100" height="100"> | [GitHub](https://github.com/jay-s-2004) |
+| --- | --------------------------------------------------- | --------------------------------------- |
+
+</div>
+
+
+
 
 ---
 
