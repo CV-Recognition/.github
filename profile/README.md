@@ -51,7 +51,7 @@ This person is responsible for ensuring that the project stays on track and that
 
 <div align=center>
 
-| Jay | <img src="images/Jay.png" width="100" height="100"> | [GitHub](https://github.com/jay-s-2004) |
+| Jay | <img src="/images/Jay.png" width="100" height="100"> | [GitHub](https://github.com/jay-s-2004) |
 | --- | --------------------------------------------------- | --------------------------------------- |
 
 </div>
@@ -62,7 +62,7 @@ This team will work on the facial recognition, relying on the Frontend team to p
 
 <div align=center>
 
-| Connor | <img src="images/Connor.png" width="100" height="100"> | [GitHub](https://github.com/connor-mcdonald-dev) |
+| Connor | <img src="/images/Connor.png" width="100" height="100"> | [GitHub](https://github.com/connor-mcdonald-dev) |
 | ------ | ------------------------------------------------------ | ------------------------------------------------ |
 
 </div>
@@ -73,7 +73,7 @@ This person is responsible for the deployment and maintenance of the project.
 
 <div align=center>
 
-| Adem | <img src="images/Adem.png" width="100" height="100"> | [GitHub](https://github.com/jay-s-2004) |
+| Adem | <img src="/images/Adem.png" width="100" height="100"> | [GitHub](https://github.com/jay-s-2004) |
 | ---- | ---------------------------------------------------- | --------------------------------------- |
 
 </div>
@@ -84,7 +84,7 @@ This person is responsible for the data collection and analysis of the project.
 
 <div align=center>
 
-| Javier | <img src="images/Jav.png" width="100" height="100"> | [GitHub](https://github.com/jay-s-2004) |
+| Javier | <img src="/images/Jav.png" width="100" height="100"> | [GitHub](https://github.com/jay-s-2004) |
 | ------ | --------------------------------------------------- | --------------------------------------- |
 
 </div>
@@ -95,7 +95,7 @@ This team will work on the facial tracking, ensuring that the camera detects the
 
 <div align=center>
 
-| Jay | <img src="images/Jay.png" width="100" height="100"> | [GitHub](https://github.com/jay-s-2004) |
+| Jay | <img src="/images/Jay.png" width="100" height="100"> | [GitHub](https://github.com/jay-s-2004) |
 | --- | --------------------------------------------------- | --------------------------------------- |
 
 </div>
