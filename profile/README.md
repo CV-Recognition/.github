@@ -69,7 +69,7 @@ This team will work on the facial recognition, relying on the Frontend team to p
 
 ### DevOps Engineer
 
-This person is responsible for the deployment and maintenance of the project.
+This person is responsible for the deployment and maintenance of the project. Also, he contributed to the backend development and worked on facial recognition.
 
 <div align=center>
 
